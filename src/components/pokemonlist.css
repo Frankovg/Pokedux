@@ -1,0 +1,26 @@
+.PokemonList {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  padding: 0 3rem 3rem;
+  margin-top: 3rem;
+}
+
+.card {
+  max-width: 300px;
+  height: auto;
+  background-color: black !important;
+}
+
+.picture {
+  margin: 0px !important;
+}
+
+.ant-card-body {
+  padding-top: 0px !important;
+}
+
+.ant-card-meta-description,
+.ant-card-head-title {
+  color: white !important;
+}
