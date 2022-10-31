@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Pokedux/static/css/main.21f670c7.css",
+    "main.js": "/Pokedux/static/js/main.f781436a.js",
+    "static/media/logo.svg": "/Pokedux/static/media/logo.0905522d6d18ceaafa60a31e87c99e88.svg",
+    "index.html": "/Pokedux/index.html",
+    "main.21f670c7.css.map": "/Pokedux/static/css/main.21f670c7.css.map",
+    "main.f781436a.js.map": "/Pokedux/static/js/main.f781436a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f670c7.css",
+    "static/js/main.f781436a.js"
+  ]
+}
